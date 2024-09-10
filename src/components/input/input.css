@@ -1,0 +1,25 @@
+.small {
+  width: 15rem;
+  height: 1.5rem;
+  padding: 5px;
+}
+.medium {
+  width: 20rem;
+  height: 2rem;
+  padding: 5px;
+}
+.large {
+  width: 25rem;
+  height: 2.5rem;
+  padding: 5px;
+}
+.small1 {
+  font-size: 16px;
+}
+.medium1 {
+  font-size: 18px;
+}
+
+.large1 {
+  font-size: 20px;
+}
